@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#box1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(Jakarta.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#box2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(NewYork.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#box3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(Paris.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#box4 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(Sydney.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: arial black;
+    font-size: 50px;
+    color: white;
+    margin: 0px;
+    top: 50%;
+    left: 50%;
+    text-shadow: 2px 2px #000;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+
+}
