@@ -1,0 +1,23 @@
+[{
+        "Name": "David Pramono",
+        "Age": 26,
+        "NIK": "0110782",
+        "Lulus": true,
+        "Hobby": ["coding", "gaming"],
+        "Pembimbing": {
+            "Pembimbing_1": "Leonardi",
+            "Pembimbing_2": "Hendra",
+            "Pembimbing_3": "Henry"
+        }
+    },
+    {
+        "Name": "Wandi Triyono",
+        "Age": 23,
+        "NIK": "0110783",
+        "Lulus": false,
+        "Hobby": ["coding", "gaming", "carding"],
+        "Pembimbing": {
+            "Pembimbing_1": "Dosen A"
+        }
+    }
+]
