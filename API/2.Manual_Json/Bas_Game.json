@@ -1,0 +1,84 @@
+ {
+     "Game": [{
+             "Title": "Pokemon Sword",
+             "Platform": "Nintendo Switch",
+             "Category": ["Role-playing", "Adventure"],
+             "Publisher": "Nintendo",
+             "Developer": "GAME FREAK Inc.",
+             "Release": "TBD",
+             "Image_Url": "image/Switch_Pokemon-Sword.png"
+         },
+         {
+             "Title": "The Legend of Zelda: Link's Awakening",
+             "Platform": "Nintendo Switch",
+             "Category": ["Action", "Adventure", "Role-Playing"],
+             "Publisher": "Nintendo",
+             "Developer": "Nintendo",
+             "Release": "2019",
+             "Image_Url": "image/Switch_TLOZ-LinksAwakening.png"
+         },
+         {
+             "Title": "Shovel Knight: Kings of Cards",
+             "Platform": "Nintendo Switch",
+             "Category": ["Action", "Adventure", "Platformer"],
+             "Publisher": "Yacht Club Games",
+             "Developer": "Yacht Club Games",
+             "Release": "2019",
+             "Image_Url": "image/Switch_ShovelKnight-KingOfCards.png"
+         },
+         {
+             "Title": "Crash Team Racing Nitro-Fueled",
+             "Platform": "Nintendo Switch",
+             "Category": ["Arcade", "Racing"],
+             "Publisher": "Activision",
+             "Developer": "Beenox",
+             "Release": "Jun 21, 2019",
+             "Image_Url": "image/Switch_CrashTeamRacing.png"
+         },
+         {
+             "Title": "Pokemon Crystal Version",
+             "Platform": "Nintendo 3DS",
+             "Category": ["Undefined", "Adventure"],
+             "Publisher": "Nintendo",
+             "Developer": "GAME FREAK Inc.",
+             "Release": "Jan 26, 2018",
+             "Image_Url": "image/3DS_PokemonCrystal.png"
+         },
+         {
+             "Title": "Apollo Justice Ace Attorney",
+             "Platform": "Nintendo 3DS",
+             "Category": ["Adventure"],
+             "Publisher": "Capcom",
+             "Developer": "Capcom",
+             "Release": "Nov 21, 2017",
+             "Image_Url": "image/3DS_ApolloJustice-AceAttorney.png"
+         },
+         {
+             "Title": "Fire Emblem Warriors",
+             "Platform": "Nintendo 3DS",
+             "Category": ["Strategy", "Role-Playing"],
+             "Publisher": "Nintendo",
+             "Developer": "KOEI TECMO",
+             "Release": "Oct 20, 2017",
+             "Image_Url": "image/3DS_FireEmblemWarriors.png"
+         },
+         {
+             "Title": "Bomberman '93",
+             "Platform": "Wii U",
+             "Category": ["Action", "Multiplayer"],
+             "Publisher": "Konami",
+             "Developer": "Konami",
+             "Release": "Nov 30, 2017",
+             "Image_Url": "image/WiiU_VC_TG16_Bomberman93.png"
+         },
+         {
+             "Title": "EARTHLOCK: Festival of Magic",
+             "Platform": "Wii U",
+             "Category": ["Action", "Adventure", "Role-Playing", "Strategy"],
+             "Publisher": "Snowcastle Games",
+             "Developer": "Snowcastle Games",
+             "Release": "Sep 13, 2017",
+             "Image_Url": "image/WiiU_Earthlock.png"
+         }
+     ]
+ }
